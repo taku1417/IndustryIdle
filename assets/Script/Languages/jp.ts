@@ -1,6 +1,6 @@
 export const JP = {
     Translator: "翻訳者",
-    TranslatorName: "etyucat",
+    TranslatorName: "etyucat, taku1417",
     Language: "言語",
     ThisLanguage: "日本語",
     OK: "OK",
